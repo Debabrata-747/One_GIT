@@ -1,2 +1,4 @@
 # One_GIT
-this is first git repo.&lt;br> author:pradhan
+this is first git repo.
+<br> 
+author:pradhan
